@@ -1,5 +1,11 @@
 # Market Basket Analysis using Association Rule Mining
 
+## Team Members
+
+- Akaash Chatterjee - M24CSE002
+- Aman Saini - M24CSE003
+- Bera Swaminath Ansuman Sabita - M24CSE007
+
 ## Package Requirements
 
 To run the code in this project, you need the following packages and libraries:
@@ -47,27 +53,6 @@ Follow these steps to set up the environment and execute the code:
 5. **Follow the instructions in the notebook:**
     The notebook contains step-by-step instructions and code to perform market basket analysis using association rule mining. Follow the instructions and run the cells sequentially to see the results.
 
-## Team Members
-
-- Akaash Chatterjee - M24CSE002
-- Aman Saini - M24CSE003
-- Bera Swaminath Ansuman Sabita - M24CSE007
-
-## Results
-
-The results of the market basket analysis will be displayed in the Jupyter Notebook. You will see various visualizations and tables that summarize the association rules and their metrics such as support, confidence, and lift.
-
-## References
-
-- [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
-- [NumPy Documentation](https://numpy.org/doc/)
-- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
-- [Seaborn Documentation](https://seaborn.pydata.org/)
-- [NetworkX Documentation](https://networkx.github.io/documentation/stable/)
-- [Tabulate Documentation](https://pypi.org/project/tabulate/)
-- [Openpyxl Documentation](https://openpyxl.readthedocs.io/en/stable/)
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
-
 ## Running on Google Colab
 
 If you prefer to run the project on Google Colab, follow these steps:
@@ -101,3 +86,19 @@ If you prefer to run the project on Google Colab, follow these steps:
 
 6. **Follow the instructions in the notebook:**
     The notebook contains step-by-step instructions and code to perform market basket analysis using association rule mining. Follow the instructions and run the cells sequentially to see the results.
+
+## Results
+
+The results of the market basket analysis will be displayed in the Jupyter Notebook/ Google Colab. You will see various visualizations and tables that summarize the association rules and their metrics such as support, confidence, and lift.
+
+## References
+
+- [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+- [NumPy Documentation](https://numpy.org/doc/)
+- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+- [Seaborn Documentation](https://seaborn.pydata.org/)
+- [NetworkX Documentation](https://networkx.github.io/documentation/stable/)
+- [Tabulate Documentation](https://pypi.org/project/tabulate/)
+- [Openpyxl Documentation](https://openpyxl.readthedocs.io/en/stable/)
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+
