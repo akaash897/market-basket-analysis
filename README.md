@@ -25,6 +25,14 @@ You can install the required packages using the following command:
 pip install pandas numpy matplotlib seaborn networkx tabulate openpyxl
 ```
 
+## Dataset
+
+The dataset used in this project is the "Online Retail" dataset from the UCI Machine Learning Repository. This dataset contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
+
+You can download the dataset from the following link:
+
+- [Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
+
 ## Run Instructions
 
 Follow these steps to set up the environment and execute the code:
@@ -102,3 +110,8 @@ The results of the market basket analysis will be displayed in the Jupyter Noteb
 - [Openpyxl Documentation](https://openpyxl.readthedocs.io/en/stable/)
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 
+## Dataset
+
+The dataset used in this project is the "Online Retail" dataset from the UCI Machine Learning Repository. You can download it from the following link:
+
+- [Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
