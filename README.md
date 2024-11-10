@@ -109,9 +109,3 @@ The results of the market basket analysis will be displayed in the Jupyter Noteb
 - [Tabulate Documentation](https://pypi.org/project/tabulate/)
 - [Openpyxl Documentation](https://openpyxl.readthedocs.io/en/stable/)
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
-
-## Dataset
-
-The dataset used in this project is the "Online Retail" dataset from the UCI Machine Learning Repository. You can download it from the following link:
-
-- [Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
